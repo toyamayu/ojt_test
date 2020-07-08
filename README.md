@@ -1,24 +1,8 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# OJT最終テスト
+- サインアップできない
+- ログインができない
+- 画像が反映されない
+- 本の投稿ができない
+- 本の編集画面でエラーがでる
+- 本の削除ができない
+- エラーメッセージがでない
